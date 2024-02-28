@@ -4,13 +4,13 @@
 
 Hellooooow there !
 
-Nice to have you onboard for this AMAZING track on **Introduction to PHP and WordPress theme development** !
+Nice to have you onboard for this AMAZING track on **WordPress theme development** !
 
-This track is planned to be done in 4-5 weeks and will give you all the basic knowledge to enter the market as a WordPress developer.
+This track is planned to be done in maximum 4 weeks and will give you all the basic knowledge to enter the market as a WordPress developer.
 
-We will start by tackling the basics of PHP (And we'll go even further than what is needed for WordPress)
+We will start by tackling the basics of PHP required for WordPress. (You don't need much. If you already did your track on PHP you can definitely skip it.)
 
-Then, we will understand what WordPress is and how it can works in our advantage.
+Then, we will understand what WordPress is and how it can works on our advantage.
 
 Finally, we will tackle a final project : a multi-page / multi-lingual website.
 
@@ -21,24 +21,16 @@ Finally, we will tackle a final project : a multi-page / multi-lingual website.
 
 ### Planning
 
-**WEEK 1**
-Introduction to PHP
+**PART 1 (3-4 days)**
+Introduction to PHP for WordPress.
 
 - Variables
 - Data types
 - Conditionals
 - Loops
 - Functions
-- Dates
-- File system
-- OOP
-- cURL
-- Database connection (You should already know the basics of mySQL)
-- CRUD operations
-- `$_GET` and `$_POST`
-- Form validation
 
-**WEEK 2 and 3**
+**PART 2 (2 weeks)**
 Wordpress Theme development from scratch
 
 - What is WordPress
@@ -55,7 +47,7 @@ Wordpress Theme development from scratch
 - Custom Post Types
 - WPML plugin
 
-**WEEK 4**
+**PART 3 (1-2 weeks)**
 
 - Multipage / multilingual website project
 
