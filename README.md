@@ -21,7 +21,7 @@ Finally, we will tackle a final project : a multi-page / multi-lingual website.
 
 ### Planning
 
-**PART 1 (3-4 days)**
+**PART 1 (2-3 days)**
 Introduction to PHP for WordPress.
 
 - Variables
@@ -42,14 +42,19 @@ Wordpress Theme development from scratch
   - posts
   - ...
 - The "functions" file
-- Enqueuing stylesheets and scripts
+- Plugins
 - ACF plugin
+- Menus
 - Custom Post Types
-- WPML plugin
+- WP Queries
+- Pagination
+- Taxonomy
+- Search feature
+- Authentication
 
 **PART 3 (1-2 weeks)**
 
-- Multipage / multilingual website project
+- Fullstack website project
 
 ---
 
